@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+dnn_top-10_baseline,0.7952948700577643,0.9918778427550358,0.8073101243356845,0.787279215218482

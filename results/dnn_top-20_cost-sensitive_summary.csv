@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+dnn_top-20_cost-sensitive,0.8993070497861057,0.9908219623131904,0.8640804459469468,0.9527900945851574

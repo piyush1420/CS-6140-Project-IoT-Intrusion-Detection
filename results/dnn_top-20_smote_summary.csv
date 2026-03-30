@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+dnn_top-20_smote,0.8836520570941137,0.9928118908382066,0.862659438634552,0.9659560154342682

@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+dnn_pca_smote,0.8824473118997297,0.9930961663417803,0.8566582242586366,0.9658547668230409

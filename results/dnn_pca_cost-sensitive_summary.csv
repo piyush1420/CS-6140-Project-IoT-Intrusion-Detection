@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+dnn_pca_cost-sensitive,0.8431741374359843,0.9844054580896686,0.8038374542588883,0.9477055933732594
