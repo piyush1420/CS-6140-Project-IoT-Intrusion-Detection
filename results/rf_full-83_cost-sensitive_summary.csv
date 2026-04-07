@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+rf_full-83_cost-sensitive,0.9652185340801241,0.9985380116959064,0.9537662677471282,0.9797831134060542

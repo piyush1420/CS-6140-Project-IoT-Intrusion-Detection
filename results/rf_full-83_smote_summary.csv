@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+rf_full-83_smote,0.9668245702465849,0.9988222871994802,0.954405789266403,0.9823226830680515

@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+lr_top-20_baseline,0.847102330216162,0.9870045484080572,0.8759510198596536,0.82731944138692

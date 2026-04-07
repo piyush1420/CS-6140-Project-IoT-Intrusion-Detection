@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+rf_pca_smote,0.9707836950825152,0.9978882391163093,0.9730808700460855,0.972325175055558
