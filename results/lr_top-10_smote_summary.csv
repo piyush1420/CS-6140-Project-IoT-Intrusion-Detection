@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+lr_top-10_smote,0.7084879446605566,0.9503736192332684,0.6918367870493872,0.8603841525597146
