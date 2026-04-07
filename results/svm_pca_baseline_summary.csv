@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+svm_pca_baseline,0.9216435120900993,0.9918778427550358,0.9547379094670917,0.9059976249347219

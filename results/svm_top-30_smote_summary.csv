@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+svm_top-30_smote,0.7556111330165867,0.9602014294996751,0.7384436705455278,0.9194491471135274

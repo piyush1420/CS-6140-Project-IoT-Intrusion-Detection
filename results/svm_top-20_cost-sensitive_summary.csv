@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+svm_top-20_cost-sensitive,0.9106631729259002,0.9927712800519818,0.8764931293850915,0.9642919750082938

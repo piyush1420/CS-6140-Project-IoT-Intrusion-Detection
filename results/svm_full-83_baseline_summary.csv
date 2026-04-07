@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+svm_full-83_baseline,0.9401798026125787,0.9939896036387265,0.9754566086310424,0.916602775637004

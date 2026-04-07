@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+svm_top-30_baseline,0.9380384445747881,0.9939896036387265,0.9730239470569072,0.914432250450139
