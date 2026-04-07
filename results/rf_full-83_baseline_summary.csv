@@ -1,0 +1,2 @@
+experiment,macro_f1,accuracy,macro_precision,macro_recall
+rf_full-83_baseline,0.9763374863340374,0.9984974009096816,0.9775674689054025,0.9787512208860001
