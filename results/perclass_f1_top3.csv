@@ -1,0 +1,13 @@
+,rf_full-83_baseline,rf_pca_baseline,rf_top-30_cost-sensitive
+NMAP_FIN_SCAN,0.9091,0.9091,0.8333
+Metasploit_Brute_Force_SSH,0.875,0.875,0.875
+Wipro_bulb,0.96,0.9032,0.96
+ARP_poisioning,0.9907,0.9846,0.991
+Thing_Speak,0.9917,0.9886,0.9926
+NMAP_UDP_SCAN,0.9952,0.9961,0.9952
+DDOS_Slowloris,1.0,1.0,0.9953
+NMAP_XMAS_TREE_SCAN,0.9963,0.9975,0.9963
+NMAP_OS_DETECTION,1.0,0.9975,1.0
+MQTT_Publish,0.9982,0.9982,0.9982
+DOS_SYN_Hping,1.0,1.0,1.0
+NMAP_TCP_scan,1.0,1.0,1.0
